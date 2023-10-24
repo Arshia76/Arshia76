@@ -33,7 +33,7 @@ I,m fullstack developer with passion to learning new technologies and applying t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Arshia76/Chatly-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arshia76&repo=Chatly-Frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Arshia76/chatly" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arshia76&repo=chatly&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Arshia76/Chatly-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arshia76&repo=Chatly-Frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Arshia76/chatly" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arshia76&repo=chatly&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br />
 
 <br /><br /><br /><br /><br />
 
